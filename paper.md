@@ -2,8 +2,8 @@
 Aircraft measurements and simulations of biomass burning aerosols over West Africa
 
 # Author
-Josh Taylor
 John Smith
+Josh Taylor
 
 # Introduction
 We present aircraft measurements of BBOA over West Africa.
