@@ -34,3 +34,6 @@ Figures go in their own section in a draft paper.
 # Conclusions
 We have made fantastic insight into the BBOA aging process. 
 Nonetheless, questions remain unanswered, so we should get some more funding.
+
+# Acknowledgements
+We would like to thank our EU funding body for their support.
